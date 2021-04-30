@@ -214,7 +214,9 @@ PolyBase requires the following elements:
 
 4. Select **Run** from the toolbar menu to execute the SQL command.
 
-5. In the query window, replace the script with the following to load the data into the `wwi_staging.SalesHeap` table. **DO NOT RUN** this command. In the interest of time, we will skip this command since it takes around 6 minutes to execute:
+**DO NOT RUN the next command in step 5** 
+
+5. In the query window, replace the script with the following to load the data into the `wwi_staging.SalesHeap` table. **DO NOT RUN** this command. In the interest of time, we will skip this command since it takes around 10 minutes to execute:
 
     ```sql
     INSERT INTO [wwi_staging].[SaleHeap]

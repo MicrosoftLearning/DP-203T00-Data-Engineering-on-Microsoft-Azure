@@ -14,6 +14,8 @@ Welcome to the course DP-203: Data Engineering on Azure. To support this course,
 
 - It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
 
+- Please note that some of the images that you see in these lab instructions will not neccessarily reflect the state of the lab environment that you will be using in this course. For example, while browsing for files in a data lake, you may see adiitional folders in the images that may not exist in your environment. This is by design, and your lab instructions will still work.
+
 ## What about changes to the student handbook?
 
 - We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
